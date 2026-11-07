@@ -1,4 +1,4 @@
-# CampusConnect
+# GoGather
 
 CampusConnect is a production-style React application for discovering campus events and clubs in one place. Students can browse and register for events, save opportunities, and join communities, while organizers can create and manage event listings through a dedicated dashboard.
 
